@@ -1,0 +1,5 @@
+#Project Virtual Env
+proj-env/
+
+#Project Cache Folder
+__pycache__/
